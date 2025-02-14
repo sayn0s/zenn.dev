@@ -56,7 +56,7 @@ Figma ファイルを共有いただいたときに、まずはじめにキャ�
 
 まず、はじめにやることとして何よりもおすすめなのは、プロトタイプを再生する機能を使うことです。プロトタイプの再生では、ホバー時やクリック時のアニメーションなどの具体的な操作方法を再現でき、実装イメージを持つことができます。
 
-![プロトタイプの再生ボタン](/images/understanding-the-gap-between-figma-designs-and-code/inline-preview.png)
+![プロトタイプの再生ボタン](/images/why-figma-designs-and-code-differ/inline-preview.png)
 _Figma Learn より引用_
 
 @[card](https://help.figma.com/hc/ja/articles/360040318013-%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97%E3%82%92%E5%86%8D%E7%94%9F)
@@ -74,7 +74,7 @@ _Figma Learn より引用_
 
 下記のカードが実装対象のとき、どういった実装をしますか？
 
-![レイヤーのサンプル](/images/understanding-the-gap-between-figma-designs-and-code/layers.png)
+![レイヤーのサンプル](/images/why-figma-designs-and-code-differ/layers.png)
 _Figma Learn より引用_
 
 #### 対応策
@@ -100,7 +100,7 @@ _Figma Learn より引用_
 
 Dev Mode ではオブジェクトをキャンバス上で選択すると、コードスニペットが開発モードのインスペクトパネルに表示されます。これは非常に便利な機能で、コードスニペットをコピペしてコードをまとめることができます。下記のように CSS が表示されたり、Figma プラグインを導入すれば React のコードとかも生成できます。便利な一方で、あまり理解せずにコードスニペットをコピペしてしまうと、意図したレイアウトとズレが発生したりします。
 
-![コードスニペット](/images/understanding-the-gap-between-figma-designs-and-code/dev-mode.png)
+![コードスニペット](/images/why-figma-designs-and-code-differ/dev-mode.png)
 _Figma Learn より引用_
 
 #### 対応策
