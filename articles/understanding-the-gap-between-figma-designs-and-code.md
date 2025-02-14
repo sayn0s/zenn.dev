@@ -1,6 +1,6 @@
 ---
 title: "Figmaデザインとコードはなぜズレるのか"
-emoji: "🐕"
+emoji: "🎨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [figma, html, css]
 published: false
