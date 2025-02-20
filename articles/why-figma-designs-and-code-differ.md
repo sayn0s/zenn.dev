@@ -172,10 +172,10 @@ Dev Mode ではオブジェクトをキャンバス上で選択すると、コ�
 .card {
   display: flex;
   width: 330px;
-  height: 254px;
+  height: 260px;
   padding: 20px;
-  justify-content: center;
-  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
 }
 ```
 
