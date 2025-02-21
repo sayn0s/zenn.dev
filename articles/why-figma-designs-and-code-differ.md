@@ -3,7 +3,7 @@ title: "Figmaデザインとコードはなぜズレるのか"
 emoji: "🎨"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [figma, html, css]
-published: false
+published: true
 publication_name: "enjapan"
 ---
 
